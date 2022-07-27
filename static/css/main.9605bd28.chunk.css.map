@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAEF,CAEA,gBAHE,iBAKF","file":"main.9605bd28.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n\n#quote-box {\n  text-align: center;\n}\n"]}
